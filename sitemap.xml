@@ -2,3 +2,110 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/index</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/store</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/reviews</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/gallery-All</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/gallery-Interior-Flooring</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/gallery-Other-Services</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/gallery-Sun-Rooms</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/gallery-Decks</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/gallery-Porches</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/service-Decks</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/service-Porch-Cover</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/service-3-Season-Sun-Rooms</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/service-4-Season-Sun-Room-and-Additions</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/service-Grounds-Screws-and-Helical-Piers</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://truframeoutdoorstructures.com/service-Other-Services</loc>
+        <lastmod>2022-07-08</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
